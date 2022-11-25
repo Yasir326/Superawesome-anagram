@@ -1,0 +1,20 @@
+{
+  "name": "swe-code-test",
+  "version": "1.0.0",
+  "description": "anagram assignment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
